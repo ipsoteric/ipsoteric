@@ -9,7 +9,7 @@
 
 ---
 
-- 👨‍💻 Egresado de Ingeniería en Informática. Me gusta aprender cosas nuevas y aplicarlas para crear herramientas que realmente sirvan y ayuden a los demás.
+- 👨‍💻 Egresado de Ingeniería en Informática. Me gusta aprender nuevas tecnologías y aplicarlas para crear herramientas que realmente sirvan y aporten valor a la comunidad.
 
 ## 🛠 Tecnologías
 
